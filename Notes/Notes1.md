@@ -1,6 +1,4 @@
-Here’s the complete Markdown file for setting up the Wi-SUN network with Simplicity Studio:
 
-```markdown
 # Setting Up Wi-SUN Network with Simplicity Studio
 
 ## 1. Project Setup
